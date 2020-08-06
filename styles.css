@@ -1,0 +1,47 @@
+.header{
+    background-color: teal;
+    color: white;
+    margin: 1.6em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main-navigation{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: block
+    
+}
+.horizontal-nav{
+    display:inline
+}
+   
+a{
+    padding: 8px;
+    background-color: #fff;
+}
+a:link{
+    text-decoration: none;
+}
+      
+body{
+    background-color: #ffdb58;
+}
+.center-alignment{
+    text-align: center;
+    align-items: center;
+}
+h2{
+    color: teal;
+}
+.list-spacing{
+    line-height: 1.6em;
+}
+.border{
+    border: lightslategray;
+    border-radius: 1em;
+    border-style: dotted;
+}
+.text-weight{
+    font-weight: bolder;
+}
